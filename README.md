@@ -10,3 +10,4 @@ https://github.com/react-boilerplate/react-boilerplate
 - Show stats in form of listing (Just show Count in form of table)
 - You'll use redux and redux saga to hit stack overflow api
 - You'll cache the results to avoid the error `Too many requests from the same api error`
+
